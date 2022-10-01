@@ -6,7 +6,7 @@ class SSH:
         self.contact_methods = {
             "Discord": "ssh#6100",
             "Telegram": "@sshogu",
-            "Email": ""ContactSSHNow@gmail.com"
+            "Email": "ContactSSHNow@gmail.com"
         }
         self.occupation = "Freelance Developer"
         self.operating_system = "Windows / Linux (Ubuntu)"
